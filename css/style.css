@@ -16,7 +16,7 @@ body {
 }
 
 a {
-  color: #316AEB;
+  color: #0C2E8A;
   transition: 0.5s;
 }
 
@@ -67,7 +67,7 @@ h6 {
 }
 
 .back-to-top:hover {
-  background: #316AEB;
+  background: #0C2E8A;
   color: #fff;
 }
 
@@ -141,7 +141,7 @@ h6 {
 }
 
 #header #logo h1 a {
-  color: #316FEB;
+  color: #0C2E8A;
   line-height: 1;
   display: inline-block;
 }
@@ -195,7 +195,7 @@ h6 {
 }
 
 #intro .intro-content h2 {
-  color: #316AEB;
+  color: #0C2E8A;
   margin-bottom: 30px;
   font-size: 64px;
   font-weight: 700;
@@ -221,13 +221,13 @@ h6 {
 }
 
 #intro .intro-content .btn-get-started {
-  background: #316AEB;
-  border: 2px solid #316AEB;
+  background: #0C2E8A;
+  border: 2px solid #0C2E8A;
 }
 
 #intro .intro-content .btn-get-started:hover {
   background: none;
-  color: #316AEB;
+  color: #0C2E8A;
 }
 
 #intro .intro-content .btn-projects {
@@ -507,7 +507,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 .section-header h2 {
   font-size: 32px;
-  color: #316AEB;
+  color: #0C2E8A;
   text-transform: uppercase;
   font-weight: 700;
   position: relative;
@@ -547,7 +547,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #about .content h2 {
-  color: #316AEB;
+  color: #0C2E8A;
   font-weight: 700;
   font-size: 36px;
   font-family: "Raleway", sans-serif;
@@ -619,8 +619,8 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #services .box .icon i:before {
-  background: #316AEB;
-  background: linear-gradient(45deg, #316AEB 0%, #316AEB 100%);
+  background: #0C2E8A;
+  background: linear-gradient(45deg, #0C2E8A 0%, #0C2E8A 100%);
   background-clip: border-box;
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
@@ -929,7 +929,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 #contact .contact-info address,
 #contact .contact-info p {
   margin-bottom: 0;
-  color: #316AEB;
+  color: #0C2E8A;
 }
 
 #contact .contact-info h3 {
@@ -941,7 +941,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #contact .contact-info a {
-  color: #316AEB;
+  color: #0C2E8A;
 }
 
 #contact .contact-info a:hover {
